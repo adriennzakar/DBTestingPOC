@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="TestDatabaseConnectionString" value='Data Source=xs22-1FN2J41;Initial Catalog=TestSchool2;Integrated Security=True' />
+  </TestRunParameters>
+</RunSettings>
